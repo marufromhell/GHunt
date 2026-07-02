@@ -26,10 +26,7 @@ Features :
 
 # ⚙️ Installation
 
-```bash
-$ pip3 install pipx
-$ pipx ensurepath
-$ pipx install ghunt
+```
 ```
 It will automatically use venvs to avoid dependency conflicts with other projects.
 
